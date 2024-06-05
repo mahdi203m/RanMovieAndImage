@@ -4,4 +4,5 @@ This Is A Simple Project That You Choose Number Of People You Want And These Peo
 # Note
 You Need To Install All Packages 
 <code>pip install -r requirements.txt</code>
-I Hope You Enjoy Of Simple Projects
+<br>
+I Hope You Enjoy Of This Simple Projects
